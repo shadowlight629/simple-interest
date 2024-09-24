@@ -5,6 +5,7 @@ Purity Thuo
 24/09/24
 */
 //simple interest=(p*r*t)/100
+// p-principle,r-rate,t-time,si-simple interest
 #include<stdio.h>
 #include<conio.h>
 #include <math.h>
